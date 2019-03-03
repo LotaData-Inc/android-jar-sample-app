@@ -1,0 +1,19 @@
+#OSX Stuff
+.DS_Store
+.directory
+
+#IDE
+.idea
+*.iml
+
+.gradle/
+build/
+gen/
+
+#temp files
+*.tmp
+*.swp
+*.log
+# files for the dex VM
+*.dex
+local.properties*
