@@ -2,8 +2,6 @@
 
 This project provides a demonstration of how to integrate LotaData MinSDK in mobile apps.
 
-![alt text](https://ia601403.us.archive.org/0/items/MinSDKDemoApp/MinSDK-DemoApp.png)
-
 ---
 
 #### Questions?
