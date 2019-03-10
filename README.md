@@ -1,6 +1,6 @@
 # LotaData MinSDK demo app 
 
-This project provides a demonstration of how to integrate LotaData MinSDK in mobile apps.
+This project provides a demonstration of how to integrate LotaData .jar in mobile apps.
 
 ---
 
