@@ -9,7 +9,7 @@ import com.lotadata.moments.model.TrailNode;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "MinSDKDemo";
+    private static final String TAG = "DemoLotaDataJAR";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,5 +44,5 @@ public class MainActivity extends AppCompatActivity {
             dispatcher.sendPayload(node);
 
         }
-    }
+    }   
 }
